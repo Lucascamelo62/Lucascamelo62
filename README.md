@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi stalker!!! 👋
 
+
+Me chamo **Lucas Camelo**, sou nordestino, nascido e criado em Fortaleza/CE 😄!!
+
+Sou formado em Engenharia da Computação pela Universidade Federal do Ceará (UFC) :computer:
+
+Iniciei minha carreira na área da tecnologia em 2016 como estagiário de teste e qualidade de software e desde então venho atuando nesse segmento, contribuindo não apenas na qualidade do produto, mas atuando fortemente na concepção de novos produtos. 
 <!--
 **Lucascamelo62/Lucascamelo62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
