@@ -5,7 +5,7 @@ Me chamo **Lucas Camelo**, sou nordestino, nascido e criado em Fortaleza/CE 😄
 
 Sou formado em Engenharia da Computação pela Universidade Federal do Ceará (UFC) :computer:
 
-Iniciei minha carreira na área da tecnologia em 2016 como estagiário de teste e qualidade de software e desde então venho atuando nesse segmento, contribuindo não apenas na qualidade do produto, mas atuando fortemente na concepção de novos produtos. 
+Iniciei minha carreira na área da tecnologia em 2016 como estagiário de teste e qualidade de software e desde então venho atuando nesse segmento, hoje como Analista de Teste e Qualidade de Software, contribuindo não apenas na qualidade do produto, mas atuando fortemente na concepção de novos produtos. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucascamelo62)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucascamelo62&show_icons=true&bg_color=00000000)
