@@ -1,4 +1,4 @@
-### Hi stalker!!! 👋
+### Hi stalker!!! :eyes: 
 
 
 Me chamo **Lucas Camelo**, sou nordestino, nascido e criado em Fortaleza/CE 😄!!
