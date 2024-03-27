@@ -7,6 +7,12 @@ Sou formado em Engenharia da Computação pela Universidade Federal do Ceará (U
 
 Iniciei minha carreira na área da tecnologia em 2016 como estagiário de teste e qualidade de software e desde então venho atuando nesse segmento, hoje como Analista de Teste e Qualidade de Software, contribuindo não apenas na qualidade do produto, mas atuando fortemente na concepção de novos produtos. 
 
+📱 Contato:
+
+<a href="https://www.linkedin.com/in/lucas-camelo-270182153/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+❗️ Estatísticas: 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucascamelo62)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucascamelo62&show_icons=true&bg_color=00000000)
 <!--
