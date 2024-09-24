@@ -9,7 +9,9 @@ Iniciei minha carreira na área da tecnologia em 2016 como estagiário de teste 
 
 📱 Contato:
 
-<a href="https://www.linkedin.com/in/lucas-camelo-270182153/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/lucas-camelo-270182153/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</br>
+<a href="mailto:lucascamelo62@gmail.com">Enviar e-mail</a>
 
 ❗️ Estatísticas: 
 
